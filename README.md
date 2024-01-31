@@ -1,5 +1,8 @@
 Cross-platform serverless code GCP 
 
+Add cert file of firebase
+Handle CORS as you want.
+
 Using Gcloud function and pushing the data to firebase RealtimeDB
 
 Usage -> This cute little function can help build group chats and what not.
